@@ -1,0 +1,1 @@
+# ProxyPattern_ChainOfResponsabilityPattern_mix_console
